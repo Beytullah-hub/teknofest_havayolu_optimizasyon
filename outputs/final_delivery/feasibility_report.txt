@@ -1,0 +1,36 @@
+FEASIBILITY REPORT
+------------------
+Connection window violations: 0
+Rotation violations: 0
+Hub capacity violations: 0
+Schedule regularity violations: 0
+Regularity pre-existing (data) violations, times unchanged/improved: 13
+Regularity relax mode: none
+Relax applied groups: 0
+Regularity hard violations: 0
+Regularity soft violations: 1
+Regularity soft violation amount total: 160.0
+Max effective XDEV: 15.0
+Directional balance violations: 0
+Directional E1 violations: 0
+Directional E2 violations: 0
+Hard violations: 0
+Directional E1 hard violations: 0
+Directional E1 soft violations: 0
+Directional E1 soft violation amount total: 0.0
+Directional E2 hard violations: 0
+Directional E2 soft violations: 0
+Directional E2 soft violation amount total: 0.0
+Feasible but inactive connections: 0
+Infeasible but active connections: 0
+Mandatory feasible-but-inactive: 0
+Mandatory infeasible-but-active: 0
+Rotation enabled: True
+Capacity enabled: True
+Regularity hard-check enabled: False  (regularity SOFT modda modellenmistir: ihlaller 'Regularity soft violations' altinda raporlanir, sert ihlal sayilmaz)
+Directional enabled: True
+Objective difference: 0.0000
+Missing/NaN values: 0
+
+Final feasible status: True
+Result: FEASIBLE

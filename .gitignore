@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.claude/
+*.zip
+
+# Local input workbooks are supplied by the user/jury and should not be committed.
+data/*.xlsx
+!data/.gitkeep
+
+# Experiment outputs can become very large. Keep only the curated delivery bundle visible.
+outputs/*
+!outputs/final_delivery/
+!outputs/final_delivery/**

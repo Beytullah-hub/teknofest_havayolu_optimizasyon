@@ -1,0 +1,14 @@
+total objective: 810340.0259304324
+objective before penalty: 810340.0259304324
+objective after penalty: 810340.0259304324
+reward_before_violation_penalty: 810340.0259304324
+violation_penalty_total: 0.0
+net_solver_objective: 810340.0259304324
+solution_quality: optimal
+total shift penalty: 0.0
+connection reward: 556287.78125
+ranking reward: 254052.2446804323
+solver status: ok/optimal
+gap: 
+runtime: 15.782
+feasibility result: FEASIBLE
